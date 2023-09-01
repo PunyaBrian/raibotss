@@ -77,7 +77,7 @@ global.povo = '0899-4830-639' // Ovo
 global.pgopay = '0899-4830-639' // Gopay
 
 /// Api keys
-global.xyro = '' //xyroine api key
+global.xyro = 'CkXt8JsvfH' //xyroine api key
 global.clayza = '' //clayzaaubert api key
 global.lolkey = '8b76c249d1439db18eaad3c7' // lol human api key
 global.rose = 'TAMVAN' // rose api key
