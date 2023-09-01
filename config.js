@@ -40,51 +40,51 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62822181826698'
-global.nomorown = '6281994858551'
-global.nomorown1 = '6285361093717'
-global.nomorown2 = '6281994858551'
-global.nomorwa = '6281994858551'
+global.nomorbot = '6289673236868' // nomer bot kamu
+global.nomorown = '628994830639' // nomer pemilik bot 1
+global.nomorown1 = '628994830639' // nomer pemilik bot 2
+global.nomorown2 = '6285737125135' // nomer pemilik bot 3
+global.nomorwa = '628994830639' // nomer pemilik utama
 global.readMore = readMore
-global.author = 'Raihan | Dev '
-global.namebot = '​RAI BOT'
-global.wm = '©Rai Bot By Raihan'
+global.author = 'MarV | Poke ' // nomer pembuat bot
+global.namebot = '​MarV Assist BOT' // nama bot di wa
+global.wm = '©MarV Assist BOT' // watermark sticker
 global.watermark = wm
-global.wm2 = '©Rai Bot By Raihan'
+global.wm2 = '©MarV Assist BOT' // watermark sticker
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `​Rai Bot`
-global.stickpack = '​©Rai Bot'
-global.stickauth = `By Aubert Team`
+global.titlebot = `​MarV Assist BOT` // Nama bot
+global.stickpack = '​©MarV Assist' // sticker pack
+global.stickauth = `By MarV Team` // sticker pack wm
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1 = 'Raihan' // Optional
-global.nameown2 = 'IrfnCode' // Optional
+global.nameown1 = 'MarV' // Optional
+global.nameown2 = 'Terlock' // Optional
 global.thumb = 'https://r4.wallpaperflare.com/wallpaper/985/154/340/kafka-honkai-star-rail-honkai-star-rail-honkai-impact-3rd-anime-girls-hd-wallpaper-bb367c7d8351cfc9d5e49b69cdcc7c90.jpg' // gambar di menu
 global.leave = 'https://i.postimg.cc/yxvn10Ls/ssstik-io-1689170610318.jpg' /// Untuk BG leave
 
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.myweb = 'https://irfncode.tech' //website
-global.sig = 'https://www.instagram.com/raihans.___' //instagram
-global.sgh = 'https://github.com/IrfnCode' //github
-global.sgc = 'https://chat.whatsapp.com/' //group whatsapp
-global.sdc = 'https://discord.gg/NSsXxVQD' //discord
+global.myweb = 'https://chat.whatsapp.com/Iaw1mMZIJXwERwXfcNalk5' //website
+global.sig = 'https://www.instagram.com/callme.drn' //instagram
+global.sgh = 'https://github.com/PunyaBrian' //github
+global.sgc = 'https://chat.whatsapp.com/Iaw1mMZIJXwERwXfcNalk5' //group whatsapp
+global.sdc = 'https://chat.whatsapp.com/Iaw1mMZIJXwERwXfcNalk5' //discord
 global.snh = '-' //youtube
 
 //Donasi/Payment
 global.pdana = 'CLOSE' // Dana
-global.povo = 'CLOSE' // Ovo
-global.pgopay = 'CLOSE' // Gopay
+global.povo = '0899-4830-639' // Ovo
+global.pgopay = '0899-4830-639' // Gopay
 
 /// Api keys
 global.xyro = '' //xyroine api key
 global.clayza = '' //clayzaaubert api key
-global.lolkey = '' // lol human api key
-global.rose = '' // rose api key
-global.uptime = '' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
-global.openai = ''  //api key bisa didapatkan dari https://openai.com/api/
-global.org = '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'  //openAI Organization name
-global.deepai = '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'
+global.lolkey = '8b76c249d1439db18eaad3c7' // lol human api key
+global.rose = 'TAMVAN' // rose api key
+global.uptime = 'u2166497-c635e654684c202186e38436' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
+global.org = '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'  //openAI Organization name
+global.deepai = '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'
 
 /// TEXT
 global.stiker_wait = '_Sedang Di Proses, Mohon Tunggu_.....'
